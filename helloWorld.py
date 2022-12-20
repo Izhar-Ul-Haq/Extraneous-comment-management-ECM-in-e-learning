@@ -7,8 +7,6 @@ import plotly.express as pd
 import sklearn as sk
 import plotly as pt
 import seaborn as sns
-import tensorflow as tf
-import torch as th
 print("Hello World!!!")
 print("We are trying hard to make a ChatterBOT and Open Source to Eveyone :)")
 #This is just starting and yet to continue . . .
